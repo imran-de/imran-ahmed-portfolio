@@ -1,0 +1,12 @@
+header{
+    background-color: blanchedalmond;
+    border-bottom: 1px solid cyan;
+    border-top: 1px solid cyan;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.logo{
+    color: #800404!important;
+    font-size: 30px;
+}
