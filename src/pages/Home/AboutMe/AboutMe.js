@@ -12,9 +12,9 @@ const AboutMe = () => {
                     </Col>
                     <Col md={8} className='mt-4 mt-md-0'>
                         <h2 align="center">About Me</h2>
-                        <div class="under-line-box">
-                            <div class="under-line">
-                                <hr class="line" /><div class="round"></div>
+                        <div className="under-line-box">
+                            <div className="under-line">
+                                <hr className="line" /><div className="round"></div>
                             </div>
                         </div>
                         <div>

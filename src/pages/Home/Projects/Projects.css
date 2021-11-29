@@ -1,0 +1,16 @@
+#projects{
+    background-color: #fafafa;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.project-img{
+    transition: all 1s;
+    overflow: hidden;
+}
+.project-img img{
+    transition: all 2s;
+}
+.project-img img:hover{
+    transform: rotate(15deg) scale(1.3);
+    /* transform: scale(1.2); */
+}

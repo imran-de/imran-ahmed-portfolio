@@ -5,9 +5,9 @@ const WhatIDo = () => {
     return (
         <section id='what-i-do' className='my-5'>
             <h2 align="center">What I Do</h2>
-            <div class="under-line-box">
-                <div class="under-line">
-                    <hr class="line" /><div class="round"></div>
+            <div className="under-line-box">
+                <div className="under-line">
+                    <hr className="line" /><div className="round"></div>
                 </div>
             </div>
             <Container className='mt-5'>

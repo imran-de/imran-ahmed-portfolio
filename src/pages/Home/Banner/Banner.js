@@ -13,7 +13,10 @@ const Banner = () => {
                             <p className="text-start">
                                 Web Design & Development is my passion, I get deeper to understand client's need & problems. My mission is to satisfy every client and become myself a pro developer to learn new updates every day. You'll get lifetime support in any situation, I Premise that, You'll get Fanatical Support and Absolutely Positively On-time Duty.
                             </p>
-                            <div className="text-center" style={{ marginTop: "40px" }}><a className="link-button" href="#Contact">Contact Now</a></div>
+                            <div className="text-center" style={{ marginTop: "40px" }}>
+                                <a className="link-button" href="#Contact">Contact Now</a>
+                                <a className='link-button ms-3' href="https://drive.google.com/file/d/1ahdX80u3DVXhqTcBXZdzCqMjHZ9jf0YM/view?usp=sharing">See Resume</a>
+                            </div>
                         </div>
                     </Col>
                     <Col md={6} className='order-1'>
