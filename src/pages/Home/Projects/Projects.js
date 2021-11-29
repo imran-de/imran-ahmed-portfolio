@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './Projects.css';
 
 const Projects = () => {
@@ -29,6 +30,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>
@@ -47,6 +49,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>
@@ -65,6 +68,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>
@@ -83,6 +87,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>
@@ -101,6 +106,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>
@@ -119,6 +125,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
+                                <Link to="/details">Details</Link>
                                 <a href="#github" target='_blank'>Code</a>
                                 <a href="#Live" target='_blank'>Live</a>
                             </Card.Footer>

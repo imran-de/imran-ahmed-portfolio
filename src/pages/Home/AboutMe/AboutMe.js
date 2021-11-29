@@ -4,7 +4,7 @@ import './AboutMe.css';
 
 const AboutMe = () => {
     return (
-        <section id='about-me'>
+        <section id='about'>
             <Container>
                 <Row>
                     <Col md={4} className='d-flex align-items-center'>
