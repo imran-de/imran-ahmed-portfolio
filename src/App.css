@@ -1,13 +1,12 @@
 /*import google font*/
-@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@200&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
 
 *{
   font-family: 'Oswald', sans-serif;
-}
-p,b{
-  font-family: 'M PLUS 1 Code', sans-serif;
-  color: #000;
-  font-weight: 800;
 }
 .link-button{
   color: #fff;
@@ -22,7 +21,7 @@ p,b{
   color: #000;
 }
 .orange{
-  color: orange;
+  color: #00cce4;
 }
 /* animated underline */
 .under-line-box{
@@ -39,13 +38,13 @@ p,b{
 .line{
   width: 200px;
   text-align: left;
-  background-color: orange;
-  border: 4px solid orange;
+  background-color: #00cce4;
+  border: 4px solid #00cce4;
 }
 .round{
   width: 20px;
   height: 20px;
-  background-color: orange;
+  background-color: #00cce4;
   border-radius: 50%;
   position: absolute;
   top: 8px;
@@ -62,7 +61,7 @@ p,b{
 }
 /* End animate slide */
 .card{
-  border-bottom: 8px solid orange!important;
+  border-bottom: 8px solid #00cce4!important;
   transition: all .5s;
 }
 .card:hover{
@@ -76,18 +75,19 @@ p,b{
   font-weight: 900;
 }
 .input-box input{
-  border: 1px solid rgba(0, 255, 255, 0.433);
+  border: 1px solid #00cce4;
   height: 40px;
   border-radius: 5px;
   padding-left: 10px;
   width: 100%;
   font-size: 17px;
+  margin-bottom: 10px;
 }
 .input-box input:focus,textarea:focus{
 outline: 1px solid yellowgreen;
 }
 .input-box textarea{
-  border: 1px solid rgba(0, 255, 255, 0.433);
+  border: 1px solid #00cce4;
   width: 100%;
   font-size: 17px;
   margin-bottom: 20px;
@@ -106,6 +106,6 @@ outline: 1px solid yellowgreen;
 }
 
 footer{
-  background-color: blanchedalmond;
+  background-color: #00cce4;
   padding: 30px;
 }
