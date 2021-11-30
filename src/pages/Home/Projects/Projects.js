@@ -30,7 +30,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/12">Details</Link>
                                 <a href="https://github.com/imran-de/drone-client" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://drone-45254.web.app/" rel='noreferrer' target='_blank'>Live</a>
                             </Card.Footer>
@@ -49,7 +49,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/10">Details</Link>
                                 <a href="https://github.com/imran-de/vacation-planner-client" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://vacation-planner-916b4.web.app/" rel='noreferrer' target='_blank'>Live</a>
                             </Card.Footer>
@@ -68,7 +68,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/11">Details</Link>
                                 <a href="https://github.com/imran-de/medi-healt-care" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://health-care-react.web.app/" target='_blank' rel="noreferrer">Live</a>
                             </Card.Footer>
@@ -87,7 +87,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/08">Details</Link>
                                 <a href="https://github.com/imran-de/Football" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://imran-de.github.io/Football/" rel='noreferrer' target='_blank'>Live</a>
                             </Card.Footer>
@@ -106,7 +106,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/03">Details</Link>
                                 <a href="https://github.com/imran-de/honda-cbr" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://honda-cbr-imran.netlify.app/" rel='noreferrer' target='_blank'>Live</a>
                             </Card.Footer>
@@ -125,7 +125,7 @@ const Projects = () => {
                                 </Card.Text>
                             </Card.Body>
                             <Card.Footer className='d-flex justify-content-between border-0'>
-                                <Link to="/details">Details</Link>
+                                <Link to="/details/17">Details</Link>
                                 <a href="https://github.com/imran-de/Doctors-portal-client" rel='noreferrer' target='_blank'>Code</a>
                                 <a href="https://simple-firebase-auth-prac.web.app/" rel='noreferrer' target='_blank'>Live</a>
                             </Card.Footer>
